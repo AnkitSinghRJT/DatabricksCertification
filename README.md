@@ -64,7 +64,7 @@ b.) Standalone Mode
 c.) Yarn
 d.) Mesos
 
-2. How much partitions should be used for best performance with respect to the number of cores.
+2. How many partitions should be used for best performance with respect to the number of cores.
 3. what will happen if we have less number of cores and higer number of partitions.
 4. Which among repartition and coaleasce are wide  and narrow transformation.
 5. Choose any 4 which are dataframe/dataset transformation.
